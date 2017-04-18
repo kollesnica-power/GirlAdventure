@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 91f76518c29bba74eb3222e45aefa5ef
+timeCreated: 1487454928
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Spin Cycle 3D
+  fontNames:
+  - Spin Cycle 3D
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
